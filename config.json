@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["1"],
+        "ACTIVITY_TEXT": "#2024",
+        "GUILD_ID": "826714212717035560",
+        "VOICE_CHANNEL": "827114343392608286",
+        "MIN_STAFF_ROLE": "827111127204626442"
+    },
+    "FILES": {
+        "WELCOME": "sesler/Hosgeldin.mp3",
+        "STAFF": "sesler/Yetkili.mp3"
+    },
+    "TOKEN": "ODE2Mzk3OTIyNDA4NTk1NDU3.YD6X0A.iY_At6PInZbUTA3Qj8MeGn9Q7d0"
+}
